@@ -1,0 +1,47 @@
+﻿[
+  {
+    "Vehicle_Id": "1",
+    "Brand_and_Model": "BMW 19",
+    "Color": "Mat Black",
+    "License_No": " KA-12345678",
+    "Owner_Name": "Sharar",
+    "Owner_Num": "1234567890",
+    "Owner_Email": "a@gmail.com"
+  },
+  {
+    "Vehicle_Id": "2",
+    "Brand_and_Model": "Corolla X 16",
+    "Color": "White",
+    "License_No": " KA-23456789",
+    "Owner_Name": "Nur",
+    "Owner_Num": "2345678910",
+    "Owner_Email": "b@gmail.com"
+  },
+  {
+    "Vehicle_Id": "3",
+    "Brand_and_Model": "Toyota Premio  19",
+    "Color": "Ash",
+    "License_No": " KA-34567891",
+    "Owner_Name": "Sazzad",
+    "Owner_Num": "3456789101",
+    "Owner_Email": "c@gmail.com"
+  },
+  {
+    "Vehicle_Id": "4",
+    "Brand_and_Model": "toyota Allion 19",
+    "Color": "Black",
+    "License_No": " KA-45678911",
+    "Owner_Name": "Yousuf",
+    "Owner_Num": "4567891011",
+    "Owner_Email": "d@gmail.com"
+  },
+  {
+    "Vehicle_Id": "5",
+    "Brand_and_Model": "Axio 18",
+    "Color": "Silver ",
+    "License_No": " KA-56789112",
+    "Owner_Name": "Abcde",
+    "Owner_Num": "5678910112",
+    "Owner_Email": "e@gmail.com"
+  }
+]
