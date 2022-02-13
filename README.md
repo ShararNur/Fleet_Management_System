@@ -11,6 +11,8 @@ Fleet Management System refers to the overall actions that take place to keep a 
 - SQL
 - JSON
 - Ajax
-- HTML5
-- CSS3
 - Bootstrap
+- CSS3
+- HTML5
+
+
